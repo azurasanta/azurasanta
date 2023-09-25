@@ -3,7 +3,7 @@
   <h2 align="center">Hey! I'm Azura Santa. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
   </a>
@@ -16,15 +16,15 @@
     <a href="https://github.com/azurasanta/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/azurasanta/github-profile-trophy"/> 
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sponsors/ryo-ma">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
-</p>
+</p> -->
 
-[![GitHub azurasanta](https://img.shields.io/github/followers/azurasanta?label=follow&style=social)](https://github.com/azurasanta)
+<!-- [![GitHub azurasanta](https://img.shields.io/github/followers/azurasanta?label=follow&style=social)](https://github.com/azurasanta) -->
 
 <!-- [![Twitter: kyayrrsaurabh](https://img.shields.io/twitter/follow/kyayrrsaurabh?style=social)](https://twitter.com/kyayrrsaurabh) -->
 <!-- [![Codeforces: saurabhh02](https://img.shields.io/codeforces.com/profile/Saurabhh02?style=social)](https://codeforces.com/profile/Saurabhh02)
