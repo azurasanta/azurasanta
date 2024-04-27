@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 As a storyteller walking the fine line between human insight and algorithmic wonders, I invite you to explore my <a href="www.linkedin.com/in/martin-josipovic">blog</a> where thoughts and tales seamlessly weave together the realms of technology and creativity.
 </p>
 
-<!-- Contact Details -->
+<!-- Contact Details
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
   You can reach out to me via email or connect with me on LinkedIn:
@@ -146,5 +146,5 @@ As a storyteller walking the fine line between human insight and algorithmic won
 <p align="center">
   📧 Email: martinjosipovic17@gmail.com<br>
   LinkedIn: <a href="www.linkedin.com/in/martin-josipovic">Martin Josipovic</a>
-</p>
+</p> -->
 
